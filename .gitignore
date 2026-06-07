@@ -1,0 +1,43 @@
+# Environment & secrets
+.env
+.env.local
+.env.production
+*.env
+
+#PHP depependencies
+vendor/
+composer.phar
+
+# Logs
+logs/
+*.log
+
+
+# Uploaded files
+images/*.jpg
+images/*.jpeg
+images/*.png
+images/*.webp
+images/*.gif
+
+#keep the folder and placeholder
+images/*
+!images/placeholder.jpg
+!images/.gitkeep
+
+# return labels
+labels/*
+!labels/.gitkeep
+
+# Sendcloud debug file
+sendcloud_return_response.json
+
+# Apache/server files
+.htaccess
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# PHP cache
+*.cache

@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+
+# Block admin area from search engines
+Disallow: /admin/
+Disallow: /includes/
+Disallow: /vendor/
+Disallow: /labels/
+Disallow: /logs/
+Disallow: /cron/
+
+# Block sensitive pages
+Disallow: /payment_success.php
+Disallow: /payment_cancel.php
+Disallow: /checkout.php
+Disallow: /cart.php
+
+# Sitemap location
+Sitemap: https://www.yourdomain.com/sitemap.php
