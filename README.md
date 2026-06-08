@@ -436,7 +436,7 @@ STRIPE_WEBHOOK_SECRET=whsec_...
 
 SHOP_URL=http://perfumeshop.local
 SHOP_NAME=Genova Perfumes
-SHOP_EMAIL=hello@genovaaperfumes.com
+SHOP_EMAIL=hello@genovaperfumes.com
 SHOP_CURRENCY=gbp
 
 SENDCLOUD_PUBLIC_KEY=
