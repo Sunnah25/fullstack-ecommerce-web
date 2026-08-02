@@ -2,7 +2,7 @@
 
 > A production-oriented PHP e-commerce platform built entirely from scratch — no frameworks, no shortcuts. Handles the full commercial lifecycle from product discovery through payment, fulfilment, and post-sale operations.
 
-**Live Demo:** [https://genovatest.ddns.net](https://genovatest.ddns.net)
+**Live Demo:** Currently unavailable (Oracle Cloud Free Tier expired). The complete source code, documentation, screenshots, and architecture are available in this repository.
 &nbsp;·&nbsp;
 **Built by:** [Sunnah25](https://github.com/Sunnah25)
 
